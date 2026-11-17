@@ -55,7 +55,7 @@ import s9ElektrozavodskayaSello1947Img from '@/src/assets/images/blok 3 slaid 9/
 import s10VdnkhSalaPrincipalImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_sala_principal.jpg';
 import s10VdnkhPerspectivaAndenImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_perspectiva_anden.jpg';
 import s10VdnkhMonumentoEspacioImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_monumento_conquistadores_espacio.png';
-import s10VdnkhFuenteAmistadPueblosImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_fuente_amistad_de_los_pueblos.jpg';
+import s10VdnkhFuenteAmistadPueblosImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_fuente_amistad_de_los_pueblos.webp';
 import s10VdnkhPabellonRusiaImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_pabellon_rusia.jpg';
 import s10VdnkhPabellonUcraniaImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_pabellon_ucrania.jpg';
 import s10VdnkhDetallesArquitecturaImg from '@/src/assets/images/blok 3 slaid 10/vdnkh_detalles_arquitectura.jpg';
